@@ -1,0 +1,742 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 04:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:13
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:68
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:47
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: functions.php:49
+msgid "Social Nav"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Source Serif Pro, translate this to 'off'. Do not translate into your own language.
+#: functions.php:122
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: functions.php:126
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Libre Franklin, translate this to 'off'. Do not translate into your own language.
+#: functions.php:131
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:28
+msgid "Loading"
+msgstr ""
+
+#: header.php:29
+msgid "wait a moment"
+msgstr ""
+
+#: header.php:133
+msgid "Primary Menu"
+msgstr ""
+
+#: single.php:21
+msgid "Next"
+msgstr ""
+
+#: single.php:22
+msgid "Next post:"
+msgstr ""
+
+#: single.php:24
+msgid "Previous"
+msgstr ""
+
+#: single.php:25
+msgid "Previous post:"
+msgstr ""
+
+#: inc/ocdi.php:21
+msgid "Theme Demo Content"
+msgstr ""
+
+#: inc/posts-meta-fields.php:22
+#, php-format
+msgid "%1s Settings"
+msgstr ""
+
+#: inc/posts-meta-fields.php:46
+msgid "Page Layout"
+msgstr ""
+
+#: inc/posts-meta-fields.php:49
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/posts-meta-fields.php:51 inc/customizer/options.php:146
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/posts-meta-fields.php:54 inc/customizer/options.php:145
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/posts-meta-fields.php:57 inc/customizer/options.php:147
+msgid "No Sidebar"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Published on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:37
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:57
+#, php-format
+msgid "Published in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:61
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:64
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:73 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content.php:44
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/about/about.php:20
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. We want to make sure you have the "
+"best experience using the theme and that is why we gathered here all the "
+"necessary information for you. Thanks for using our theme!"
+msgstr ""
+
+#: inc/about/about.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: inc/about/about.php:25
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/about/about.php:31
+msgid "Theme Details"
+msgstr ""
+
+#: inc/about/about.php:35 inc/about/about.php:81
+msgid "View Demo"
+msgstr ""
+
+#: inc/about/about.php:39 inc/about/about.php:51
+msgid "View Documentation"
+msgstr ""
+
+#: inc/about/about.php:48
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/about/about.php:50
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: inc/about/about.php:57 inc/about/about.php:60
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/about/about.php:59
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+
+#: inc/about/about.php:65 inc/customizer/options.php:86
+msgid "Theme Options"
+msgstr ""
+
+#: inc/about/about.php:67
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: inc/about/about.php:68
+msgid "Customize"
+msgstr ""
+
+#: inc/about/about.php:73
+msgid "Demo Content"
+msgstr ""
+
+#: inc/about/about.php:75
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: inc/about/about.php:75 inc/hooks/tgm.php:16
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/about/about.php:78
+msgid "Theme Preview"
+msgstr ""
+
+#: inc/about/about.php:80
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+
+#: inc/about/about.php:87 inc/about/about.php:90
+msgid "Contact Support"
+msgstr ""
+
+#: inc/about/about.php:89
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/about/about.php:99
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: inc/about/class.about.php:121 inc/about/class.about.php:122
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/about/class.about.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/about/class.about.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: inc/about/class.about.php:341 inc/about/class.about.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#: inc/customizer/defaults.php:20
+msgid "Trending Now"
+msgstr ""
+
+#: inc/customizer/defaults.php:37
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/defaults.php:40
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: inc/customizer/init.php:45
+msgid "Xmas Lite Pro"
+msgstr ""
+
+#: inc/customizer/init.php:46
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/options.php:10
+msgid "Homepage Options"
+msgstr ""
+
+#: inc/customizer/options.php:11
+msgid "Contains all homepage settings"
+msgstr ""
+
+#: inc/customizer/options.php:20
+msgid "Trending Post Options"
+msgstr ""
+
+#: inc/customizer/options.php:36
+msgid "Enable Trending Posts"
+msgstr ""
+
+#: inc/customizer/options.php:53
+msgid "Trending posts Title"
+msgstr ""
+
+#: inc/customizer/options.php:73
+msgid "Choose Trending posts category"
+msgstr ""
+
+#: inc/customizer/options.php:87
+msgid "Contains all theme settings"
+msgstr ""
+
+#: inc/customizer/options.php:96
+msgid "TopBar Options"
+msgstr ""
+
+#: inc/customizer/options.php:112
+msgid "Show TopBar"
+msgstr ""
+
+#: inc/customizer/options.php:125
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/options.php:141
+msgid "Global Layout"
+msgstr ""
+
+#: inc/customizer/options.php:158
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/options.php:174
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/options.php:178
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/customizer/options.php:179
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/options.php:189
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/options.php:205
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: inc/customizer/options.php:206
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr ""
+
+#: inc/customizer/options.php:210
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/options.php:211
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/options.php:212
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/options.php:222
+msgid "Excerpt Options"
+msgstr ""
+
+#: inc/customizer/options.php:238
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/options.php:255
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/options.php:266
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/options.php:283
+msgid "Enable Posts Gallery"
+msgstr ""
+
+#: inc/customizer/options.php:302
+msgid "Choose posts gallery category"
+msgstr ""
+
+#: inc/customizer/options.php:320
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/options.php:338
+msgid "Show Static Page Content"
+msgstr ""
+
+#: inc/hooks/inner-header.php:63
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/hooks/inner-header.php:68
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/hooks/posts.php:69
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/widgets/author-info.php:14
+msgid "XL: Author Info"
+msgstr ""
+
+#: inc/widgets/author-info.php:15
+msgid "Displays author short info."
+msgstr ""
+
+#: inc/widgets/author-info.php:85 inc/widgets/social-menu.php:75
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/author-info.php:93
+msgid "Author Name:"
+msgstr ""
+
+#: inc/widgets/author-info.php:101 inc/widgets/social-menu.php:83
+msgid "Short Description:"
+msgstr ""
+
+#: inc/widgets/author-info.php:108
+msgid "Author Image:"
+msgstr ""
+
+#: inc/widgets/author-info.php:111
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/author-info.php:111
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/author-info.php:111
+msgid "Choose Image"
+msgstr ""
+
+#: inc/widgets/author-info.php:122
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/widgets/author-info.php:132
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/widgets/author-info.php:140
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/widgets/author-info.php:148
+msgid "GooglePlus URL:"
+msgstr ""
+
+#: inc/widgets/social-menu.php:14
+msgid "XL: Social Menu"
+msgstr ""
+
+#: inc/widgets/social-menu.php:15
+msgid "Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/widgets/social-menu.php:53
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:14
+msgid "XL: Tab Posts"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:15
+msgid "Displays posts in tabs"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:34 inc/widgets/tab-posts.php:35
+#: inc/widgets/tab-posts.php:78
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:39 inc/widgets/tab-posts.php:40
+#: inc/widgets/tab-posts.php:93
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:82 inc/widgets/tab-posts.php:97
+msgid "No of Posts:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:88 inc/widgets/tab-posts.php:103
+msgid "Content Length (Words):"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:12
+msgid "Displays items on sidebar."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:19
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:21
+msgid "Displays items on footer first column."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:28
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:30
+msgid "Displays items on footer second column."
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:37
+msgid "Footer Column Three"
+msgstr ""
+
+#: inc/widgets/widget-sidebars.php:39
+msgid "Displays items on footer third column."
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: assets/lib/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: assets/lib/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/lib/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/lib/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:758
+#: assets/lib/breadcrumbs/breadcrumbs.php:787
+#: assets/lib/breadcrumbs/breadcrumbs.php:814
+#: assets/lib/breadcrumbs/breadcrumbs.php:841
+#: assets/lib/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:759
+#: assets/lib/breadcrumbs/breadcrumbs.php:815
+#: assets/lib/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:760
+#: assets/lib/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: assets/lib/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. Name of the theme
+msgid "Xmas Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Xmas Lite is clean, modern, feature-rich, multiple use purpose, and easy-to-"
+"use WordPress theme especially designed for holiday season. Built with "
+"Bootstrap3 framework, Xmas Lite is Engineered for the pros and Crafted for "
+"the up-and-comers.Xmas Lite brings beauty and unique designs combined with "
+"performance and fast loading. This multitude of options allow you to create "
+"a unique looking homepage in a couple of minutes. The theme integrates clean "
+"coding, great design and fast page loading speed. It uses the best clean SEO "
+"practices and is a social friendly theme.The overall designed is plain and "
+"practical, focusing the reader’s attention on what is truly important: the "
+"content. Blog followers will be able to enjoy an online experience that is "
+"second to none."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themesaga.com/theme/xmas-lite"
+msgstr ""
+
+#. Author of the theme
+msgid "Themesaga"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themesaga.com"
+msgstr ""
